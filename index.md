@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-venue: "Python: Introduction to NumPy"  
-address: "The Jackson Laboratory for Genomic Medicine, Room 4320, 10 Discovery Dr, Farmington CT"  
+venue: "The Jackson Laboratory for Genomic Medicine"  
+address: "Room 4320, 10 Discovery Dr, Farmington CT"  
 country: "us"
 language: "en"
 latitude: "41.732369"
