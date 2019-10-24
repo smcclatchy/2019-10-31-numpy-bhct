@@ -6,7 +6,7 @@ country: "us"
 language: "en"
 latitude: "41.732369"
 longitude: "-72.793651"
-humandate: "Oct 31-Nov 14, 2019"
+humandate: "Oct 31-Nov 21, 2019"
 humantime: "1:00 pm - 4:00 pm"
 startdate: 2019-10-31
 enddate: 2019-11-14
