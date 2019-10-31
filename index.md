@@ -10,10 +10,10 @@ humandate: "Oct 31-Nov 21, 2019"
 humantime: "1:00 pm - 4:00 pm"
 startdate: 2019-10-31
 enddate: 2019-11-14
-instructor: ["Sue McClatchy", "Luis Sordo Vieira", "Dave Mellert", "Sandeep Namburi", "Bill Flynn"] 
+instructor: ["Sue McClatchy", "Luis Sordo Vieira", "Mitch Kostich", "Sandeep Namburi", "Bill Flynn"] 
 helper: ["Asli Uyar"]
 email: ["susan.mcclatchy@jax.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: https://pad.carpentries.org/2019-10-31-numpy-bhct
 eventbrite: 78473250605
 ---
 
